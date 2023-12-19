@@ -165,8 +165,8 @@ I am available for Web project collaboration, and Open Source project collaborat
 #
 
 <div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashish8689&show_icons=true&locale=en" alt="ashish8689"  />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8689&" alt="ashish8689" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashish8689&show_icons=true&locale=en" alt="ashish8689"  />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8689&" alt="ashish8689" />
 </div>
 
-<p align="left"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8689&show_icons=true&locale=en&layout=compact" alt="ashish8689" /> </p>
+<p align="left"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8689&show_icons=true&locale=en&layout=compact" alt="ashish8689" /> </p>
